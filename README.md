@@ -54,19 +54,6 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=StephanosTheodosiou&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false&order=2&custom_title=Most%20Used%20Languages" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=StephanosTheodosiou&locale=en&mode=weekly&theme=gotham&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
 <h2 align="left">Connect With Me 🌐</h2>
 
 ###
